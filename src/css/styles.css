@@ -1,5 +1,5 @@
 /* hw section */
-/* @import 'simplelightbox/dist/simple-lightbox.min.css';  */
+@import 'simplelightbox/dist/simple-lightbox.min.css';
 /*Importing from js makes it impossible to override. This seems to work.*/
 @import url('./gallery.css');
 @import url('./form.css');
