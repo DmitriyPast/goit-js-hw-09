@@ -1,5 +1,5 @@
 // Описаний в документації
-import SimpleLightbox from 'simplelightbox';
+import SimpleLightbox from 'simplelightbox/dist/simple-lightbox.modules.js';
 // Додатковий імпорт стилів <-- Жахлива підказка
 // import 'simplelightbox/dist/simple-lightbox.min.css'; <-- I HATE this
 
